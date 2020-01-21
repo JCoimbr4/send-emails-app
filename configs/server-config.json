@@ -1,0 +1,7 @@
+{
+    "address": "localhost",
+    "port": 0,
+    "bufferDir": "./buffer",
+    "minSec": 5,
+    "maxSec": 10
+}
