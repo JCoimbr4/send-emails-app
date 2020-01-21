@@ -5,7 +5,7 @@ Might have errors and bugs because this version it's not completed.
 ## How it works
 This app was built to work as a service.
 
-It is constantly checking a folder for JSON files with the email info, from first file on folder to the last.
+It is constantly checking a folder for JSON files with the email info, from first file on folder to the last. This will be donne from X to Y seconds to prevent spam.
 
 If there are no errors then the email is sent.
 
